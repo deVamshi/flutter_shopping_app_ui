@@ -8,18 +8,17 @@
 
 UI developed by deVamshidhar
 
-Follow me on [twitter](https://twitter.com/vamshidhar_dev)
+### Contact me:
 
-### Hire me by leaving a mail at dev.vamshidhar@gmail.com
+[Twitter](https://twitter.com/vamshidhar_dev)
+[LinkedIn](https://www.linkedin.com/in/vamshidhar-telugu-b10259181)
+[Email](dev.vamshidhar@gmail.com)
 
 ### 💻  Requirements :alien:
 
 * Any Operating System (MacOS, Linux, Windows)
 * Any IDE with Flutter SDK installed (Android Studio, VSCode etc)
 * A little knowledge of Dart and Flutter
-
-
-
 
 ## Credit
 
