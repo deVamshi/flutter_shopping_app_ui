@@ -1,4 +1,4 @@
-# Shopping App UI Made with Flutter :smile:  
+# Shopping App UI Made with Flutter
 
 ## Screenshot:
 
