@@ -10,9 +10,9 @@ UI developed by deVamshidhar
 
 ### Contact me:
 
-[Twitter](https://twitter.com/vamshidhar_dev)
-[LinkedIn](https://www.linkedin.com/in/vamshidhar-telugu-b10259181)
-Leave a mail at dev.vamshidhar@gmail.com
+* [Twitter](https://twitter.com/vamshidhar_dev)
+* [LinkedIn](https://www.linkedin.com/in/vamshidhar-telugu-b10259181)
+* Leave a mail at dev.vamshidhar@gmail.com
 
 ### 💻  Requirements :alien:
 
