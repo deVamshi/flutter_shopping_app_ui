@@ -12,6 +12,7 @@ UI developed by deVamshidhar
 
 * [Twitter](https://twitter.com/vamshidhar_dev)
 * [LinkedIn](https://www.linkedin.com/in/vamshidhar-telugu-b10259181)
+* [Instagram](https://www.instagram.com/the_flutter_land/)
 * Leave a mail at dev.vamshidhar@gmail.com
 
 ### 💻  Requirements :alien:
