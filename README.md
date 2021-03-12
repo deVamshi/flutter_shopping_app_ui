@@ -1,7 +1,26 @@
-# Shopping App UI in flutter
+# Shopping App UI Made with Flutter :smile:  
+
+## Screenshot:
+
+![shotppingScreenshot](https://user-images.githubusercontent.com/70679200/110890967-04073600-8317-11eb-9bb1-07c2cef79fc0.png)
+
+ ### 👨‍💻  Author
+
+UI developed by deVamshidhar
+
+Follow me on [twitter](https://twitter.com/vamshidhar_dev)
+
+### Hire me by leaving a mail at dev.vamshidhar@gmail.com
+
+### 💻  Requirements :alien:
+
+* Any Operating System (MacOS, Linux, Windows)
+* Any IDE with Flutter SDK installed (Android Studio, VSCode etc)
+* A little knowledge of Dart and Flutter
 
 
-##Screen shots
 
-<img src="![x1](https://user-images.githubusercontent.com/70679200/110888343-fa2f0400-8311-11eb-923f-124f99b1b691.jpg)" width="100" height="100"/>
 
+## Credit
+
+Inspired by this Design on Dribbble [#](https://dribbble.com/shots/14524326-Shopping-App?utm_source=Clipboard_Shot&utm_campaign=D-studio&utm_content=Shopping%20App&utm_medium=Social_Share)
